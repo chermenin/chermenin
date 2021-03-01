@@ -2,7 +2,7 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=chermenin&show_icons=true&include_all_commits=true&hide_border=true&title_color=24292e)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chermenin&layout=compact&langs_count=8&hide_border=true&title_color=24292e)
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chermenin&hide_border=true&title_color=24292e&text_color=777777)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chermenin&hide_border=true&title_color=24292e&text_color=555555)
 
 <!--
 
