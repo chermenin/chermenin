@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<div align="center">
+<!-- div align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=chermenin&&rank=-C,-B,-?&theme=flat&margin-w=10&no-frame=true&no-bg=true" />
-</div>
+</div -->
 
 <span><img src="https://github-readme-stats.vercel.app/api?username=chermenin&show_icons=true&include_all_commits=true&hide_border=true&title_color=24292e" alt="My github stats" width="446"/></span>
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chermenin&layout=compact&langs_count=8&hide_border=true&title_color=24292e" alt="Top Languages" width="315"/></span>
